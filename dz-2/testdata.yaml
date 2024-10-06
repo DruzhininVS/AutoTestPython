@@ -1,0 +1,6 @@
+address: https://test-stand.gb.ru
+sleep_time: 1
+browser: chrome
+wait: 6
+username: testtest1
+password: c23b2ed66e

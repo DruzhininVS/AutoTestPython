@@ -1,0 +1,6 @@
+browser: chrome
+username: testtest1
+password: c23b2ed66e
+new_title: Test Post
+wsdl: https://speller.yandex.net/services/spellservice?WSDL
+address: https://test-stand.gb.ru/
